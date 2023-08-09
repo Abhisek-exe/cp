@@ -17,3 +17,4 @@ int main(){
     dog obj1;
     obj1.speak();
 }
+  
